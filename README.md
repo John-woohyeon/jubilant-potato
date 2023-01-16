@@ -5,16 +5,22 @@
 ### Member :</br>
 정우현(Jung-woohyeon), 최호재(Choi-hojae), 최수연(Choi-suyeon)</br>
 
+---
 
 **Robot Hardware Developer :**</br>
+
 최수연(Choi-suyeon)</br>
 **Robot Software Developer :**</br>
+
 정우현(Jung-woohyeon), 최호재(Choi-hojae)</br>
 **Robot Designer :**</br>
+
 최수연(Choi-suyeon)</br>
 **Reference :**</br>
+
 배승학(Bae-seunghak)</br>
 
+---
 
 # Abstract
 
