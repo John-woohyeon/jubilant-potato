@@ -1,7 +1,7 @@
 # Pymodi Project : Camera Gimbal Robot
-===========================================
+
 ## Project Team : Robot Programming Team 1
--------------------------------------------
+
 ## Member :
 
 
