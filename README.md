@@ -32,3 +32,7 @@ The gimbal can implement a total of seven modes according to the user's input, a
 The Gimbal project was made from parts only in the pymodi kit, and additional sensors or motors were not used.
 The user enters the desired mode through the display and dial module, and sets the mode through the button module.
 This method is intuitive for users to select a mode and return, and is designed to make it easy to use various modes freely.
+
+![image](https://user-images.githubusercontent.com/110087513/212662056-2ba5210e-61eb-4bfe-b219-3b561015f9e2.png)
+
+
