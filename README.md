@@ -2,8 +2,10 @@
 
 ## Project Team : Robot Programming Team 1
 
-### Member :
-</br>정우현(Jung-woohyeon), 최호재(Choi-hojae), 최수연(Choi-suyeon)
+### Member :</br>
+정우현(Jung-woohyeon), 최호재(Choi-hojae), 최수연(Choi-suyeon)</br>
+
+
 **Robot Hardware Developer :**</br>
 최수연(Choi-suyeon)</br>
 **Robot Software Developer :**</br>
