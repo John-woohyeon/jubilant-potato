@@ -1,8 +1,9 @@
 # Pymodi Project : Camera Gimbal Robot
 ## Project Team : Robot Programming Team 1
 ## Member :
-</br>정우현(Jung-woohyeon), 최호재(Choi-hojae), 최수연(Choi-suyeon)
----
+
+정우현(Jung-woohyeon), 최호재(Choi-hojae), 최수연(Choi-suyeon)
+
 
 **Robot Hardware Developer :**
 최수연(Choi-suyeon)
