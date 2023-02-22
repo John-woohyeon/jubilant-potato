@@ -35,3 +35,15 @@ This method is intuitive for users to select a mode and return, and is designed 
 
 ## Mode 0 to 6
 ### Mode 0 - Gimbal Mode
+
+### Mode 1 - Horizontal / Vertical Change Mode
+
+### Mode 2 - Selfie Mode
+
+### Mode 3 - Tripod Mode
+
+### Mode 4 - Panorama Mode
+
+### Mode 5 - Self Control Mode
+
+### Mode 6 - Initialization
